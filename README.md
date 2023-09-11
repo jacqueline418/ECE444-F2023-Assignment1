@@ -8,3 +8,11 @@
 
 ## Activity 4
 ![image](https://github.com/jacqueline418/ECE444-F2023-Assignment1/assets/84695599/070a2014-ecde-4d70-847a-3f1a5add2eda)
+
+## Activity 5
+
+![image](https://github.com/jacqueline418/ECE444-F2023-Assignment1/assets/84695599/9cdd4df6-7fca-4bfa-926b-e0dfd66a1128)
+
+![image](https://github.com/jacqueline418/ECE444-F2023-Assignment1/assets/84695599/60b0e9eb-bfa4-44dc-8849-d4a2e1827594)
+
+![image](https://github.com/jacqueline418/ECE444-F2023-Assignment1/assets/84695599/71587023-ace9-428b-bf97-4240a4d076d9)
